@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+openai-whisper
+ollama
+edge-tts
+pvporcupine
+pyaudio
+python-dotenv
+google-genai
+pyaudio
+openai-whisper
+numpy
